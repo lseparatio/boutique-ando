@@ -1,0 +1,4 @@
+boutique-an
+*.sqlite3
+*.pyc
+__pychache__

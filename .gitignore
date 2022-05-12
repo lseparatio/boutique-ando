@@ -3,3 +3,4 @@ boutique-an
 *.pyc
 __pycache__
 env.py
+.vscode

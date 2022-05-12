@@ -1,5 +1,5 @@
 boutique-an
 *.sqlite3
 *.pyc
-__pychache__
+__pycache__
 env.py
